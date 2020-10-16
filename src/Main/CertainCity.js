@@ -23,7 +23,7 @@ function CertainCity(props) {
                 });
     return(
         <div>
-            {isTrue ? <h1>В {props.nameCity} {(name - 273.3).toFixed(1)} градусов</h1> : <h1>Вы неправильно ввели название города</h1>}
+            {isTrue ? <h1>В {props.nameCity} {(name - 273.3).toFixed(0)} градусов</h1> : <h1>Вы неправильно ввели название города</h1>}
         </div>
     );
 }
