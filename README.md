@@ -1,1 +1,3 @@
-# Detark333-WeatherReactApp
+# WeatherReactApp
+Запуск проекта: npm run start
+Так как используется бесплатный API, данные нужно вводить на английском языке. Например: "Saratov".
