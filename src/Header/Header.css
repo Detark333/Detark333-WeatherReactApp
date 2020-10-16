@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('../Roboto-Bold.ttf');
+}
+.div-main{
+    font-family: Roboto;
+    font-style: normal;
+    height: 48pt;
+    font-size: 20px;
+    color: #F2F2F2;
+    background-color: #48484A;
+}
+.div-inside{
+    width: 1024px;
+    margin: 0 auto;
+    padding: 20px;
+}
